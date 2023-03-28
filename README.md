@@ -17,9 +17,9 @@ I'm always looking for new challenges and opportunities to grow as a developer, 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/okneeraj/nodexp-skeleton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=nodexp-skeleton&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/okneeraj/zero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=zero&theme=buefy" />
 </a>
