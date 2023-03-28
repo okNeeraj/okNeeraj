@@ -1,4 +1,4 @@
-## 👋 Hi everyone, I'm Neeraj Singh, Frontend Developer 👋
+## 👋 Hi everyone, I'm Neeraj Singh, Frontend Developer from 🇮🇳 India 👋
 A frontend developer with a passion for creating beautiful, reactive and intuitive user interfaces. With several years of experience in web development, 
 I have honed my skills in Javascript, NodeJs, ReactJs, HTML and CSS/SCSS to build responsive, accessible, interactive and mobile-first websites.
 
