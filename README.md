@@ -13,7 +13,9 @@ I'm always looking for new challenges and opportunities to grow as a developer, 
 | <a href="https://github.com/okNeeraj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=okNeeraj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /></a> | <a href="https://github.com/okneeraj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okneeraj&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=okneeraj&theme=jolly" width="824">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=okneeraj&border_radius=0&ring=1632EB&fire=1632EB&currStreakLabel=1632EB" width="824">
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=okneeraj&border_radius=0&ring=1632EB&fire=1632EB&currStreakLabel=1632EB)](https://git.io/streak-stats) -->
 
 #### Top Repositories
 
