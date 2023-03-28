@@ -10,8 +10,16 @@ I'm also familiar with build tools like Webpack and Vite and have used them to o
 My goal as a frontend developer is to make the web a more beautiful and accessible place. 
 I'm always looking for new challenges and opportunities to grow as a developer, and I'm excited to see what the future holds for me in this constantly evolving industry.
 
+| <a href="https://github.com/okNeeraj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=okNeeraj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /></a> | <a href="https://github.com/okneeraj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okneeraj&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=okNeeraj&show_icons=true&theme=radical)](https://github.com/okNeeraj)
+
+#### Top Repositories
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&langs_count=6)](https://github.com/okNeeraj)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=nodexp-skeleton&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=zero&theme=buefy" />
+</a>
