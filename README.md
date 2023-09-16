@@ -37,6 +37,6 @@ I'm always looking for new challenges and opportunities to grow as a developer, 
 <a href="https://github.com/okneeraj/nodexp-skeleton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=nodexp-skeleton&theme=buefy" />
 </a>
-<a href="https://github.com/okneeraj/zero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=react-digest&theme=buefy" />
+<a href="https://github.com/okneeraj/namaste-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=namaste-react&theme=buefy" />
 </a>
