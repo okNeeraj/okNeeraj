@@ -29,7 +29,7 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 
 👥 As a Team Lead: Dedicated to nurturing collaboration, guiding teams, and delivering successful projects. Passionate about leveraging collective strengths to achieve shared goals.
 
-> ✉️ Let’s connect to discuss how I can contribute to your projects or share insights for mutual success.
+> <br> ✉️ Let’s connect to discuss how I can contribute to your projects or share insights for mutual success.<br>
 <br>
 
 ### Languages and Tools
