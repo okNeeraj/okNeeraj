@@ -5,7 +5,7 @@
 
 Passionate and Experienced JavaScript Developer with a proven track record of 6+ years in crafting cutting-edge enterprise-level SaaS products.
 
-##### I thrive in a tech stack that includes - 
+#### I thrive in a tech stack that includes - 
 ✅ `JavaScript`, <br>
 ✅ `ReactJS`, `Redux`,  <br>
 ✅ `TypeScript`,  <br>
