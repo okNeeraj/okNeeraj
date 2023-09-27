@@ -1,17 +1,25 @@
 
 <h1 align="center">Hi 👋,  I'm Neeraj Singh</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳 </h3>
+<h3 align="center">A passionate JavaScript Developer from India 🇮🇳 </h3>
 <br><br>
 
 Passionate and Experienced JavaScript Developer with a proven track record of 6+ years in crafting cutting-edge enterprise-level SaaS products.
 
-I thrive in a tech stack that includes `JavaScript`, `ReactJS`, `Redux`, `TypeScript`, `NodeJS`, `MongoDB`, `WebPack`, `Parcel`, `Vite`, `Express.js`, `APIs`, `HTML`, `CSS`, `Bootstrap` (CSS Liberary), `TailwindCSS`, `SASS`, `Web Optimization`, `Performance Auditing`, and `SEO Optimization`. 
+##### I thrive in a tech stack that includes - 
+✅ `JavaScript`, 
+✅ `ReactJS`, `Redux`, 
+✅ `TypeScript`, 
+✅ `NodeJS`, `Express.js`,
+✅ `MongoDB`, `MySQL`, `APIs`, 
+✅ `WebPack`, `Parcel`, `Vite`, 
+✅ `HTML`, `CSS/SASS`, `Bootstrap` (CSS Liberary), `TailwindCSS`, 
+✅ `Web Optimization`, `Performance Auditing`, and `SEO Optimization`. 
 
-My expertise extends to:
+#### My expertise extends to:
 
 👨‍💻 JavaScript Is Love: Profound understanding of JavaScript and DOM manipulation, ensuring seamless user experiences, high scalability, maintainability, and reusability.
 
-🎯SaaS Product Architect: Highly skilled in Frontend Architecture, with a vision for creating robust and user-centric solutions.
+🎯 SaaS Product Architect: Highly skilled in Frontend Architecture, with a vision for creating robust and user-centric solutions.
 
 🔮 Strategic Planning: I specialize in long-term projection and planning, guiding projects from inception to success.
 
@@ -21,8 +29,7 @@ My expertise extends to:
 
 👥 As a Team Lead: Dedicated to nurturing collaboration, guiding teams, and delivering successful projects. Passionate about leveraging collective strengths to achieve shared goals.
 
-
-✉️ Let’s connect to discuss how I can contribute to your projects or share insights for mutual success.
+> ✉️ Let’s connect to discuss how I can contribute to your projects or share insights for mutual success.
 <br>
 
 ### Languages and Tools
