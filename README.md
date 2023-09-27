@@ -29,12 +29,10 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 
 👥 As a Team Lead: Dedicated to nurturing collaboration, guiding teams, and delivering successful projects. Passionate about leveraging collective strengths to achieve shared goals.
 
-> 
 > ✉️ Let’s connect to discuss how I can contribute to your projects or share insights for mutual success.
 > Connect with me at - 
 > Linkedin : <a href="https://www.linkedin.com/in/okneerajsingh/" target="_blank">@okNeerajSingh</a>
 > Twitter (x) : <a href="https://twitter.com/okneerajsingh/" target="_blank">@okNeerajSingh</a>
-<br>
 
 ### Languages and Tools
 
