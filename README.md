@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳 </h3>
 <br><br>
 
-Passionate and Experienced JavaScript Developer with a proven track record of 6+ years in crafting cutting-edge enterprise-level SaaS products. 
+Passionate and Experienced JavaScript Developer with a proven track record of 6+ years in crafting cutting-edge enterprise-level SaaS products.
+
 I thrive in a tech stack that includes `JavaScript`, `ReactJS`, `Redux`, `TypeScript`, `NodeJS`, `MongoDB`, `WebPack`, `Parcel`, `Vite`, `Express.js`, `APIs`, `HTML`, `CSS`, `Bootstrap` (CSS Liberary), `TailwindCSS`, `SASS`, `Web Optimization`, `Performance Auditing`, and `SEO Optimization`. 
 
 My expertise extends to:
