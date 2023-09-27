@@ -12,7 +12,7 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 ✅ `NodeJS`, `Express.js`, <br>
 ✅ `MongoDB`, `MySQL`, `APIs`,  <br>
 ✅ `WebPack`, `Parcel`, `Vite`,  <br>
-✅ `HTML`, `CSS/SASS`, `Bootstrap` (CSS Liberary), `TailwindCSS`,  <br>
+✅ `HTML`, `CSS/SASS`, `Bootstrap`, `TailwindCSS`,  <br>
 ✅ `Web Optimization`, `Performance Auditing`, and `SEO Optimization`.  <br>
 
 #### My expertise extends to:
