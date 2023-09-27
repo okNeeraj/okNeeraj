@@ -6,14 +6,14 @@
 Passionate and Experienced JavaScript Developer with a proven track record of 6+ years in crafting cutting-edge enterprise-level SaaS products.
 
 ##### I thrive in a tech stack that includes - 
-✅ `JavaScript`, 
-✅ `ReactJS`, `Redux`, 
-✅ `TypeScript`, 
-✅ `NodeJS`, `Express.js`,
-✅ `MongoDB`, `MySQL`, `APIs`, 
-✅ `WebPack`, `Parcel`, `Vite`, 
-✅ `HTML`, `CSS/SASS`, `Bootstrap` (CSS Liberary), `TailwindCSS`, 
-✅ `Web Optimization`, `Performance Auditing`, and `SEO Optimization`. 
+✅ `JavaScript`, <br>
+✅ `ReactJS`, `Redux`,  <br>
+✅ `TypeScript`,  <br>
+✅ `NodeJS`, `Express.js`, <br>
+✅ `MongoDB`, `MySQL`, `APIs`,  <br>
+✅ `WebPack`, `Parcel`, `Vite`,  <br>
+✅ `HTML`, `CSS/SASS`, `Bootstrap` (CSS Liberary), `TailwindCSS`,  <br>
+✅ `Web Optimization`, `Performance Auditing`, and `SEO Optimization`.  <br>
 
 #### My expertise extends to:
 
