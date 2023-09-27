@@ -27,7 +27,7 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 
 🚀 Forward to the Future: According to Gartner's findings, the market for no-code and low-code platforms has witnessed remarkable growth, averaging an annual increase of over $1 billion. Starting at $3.47 billion in 2019, it surged to $8 billion in 2022. These approaches to building future-ready products are not only cost-effective for both organizations and customers but also revolutionize how we build and deploy applications. Most of the time, I am involved in building these kinds of solutions to simplify complex processes. I possess sufficient knowledge in developing No Code applications, including Website Editors.
 
-👥 As a Team Lead: Dedicated to nurturing collaboration, guiding teams, and delivering successful projects. Passionate about leveraging collective strengths to achieve shared goals.
+
 <br> <br>
 > Let’s connect to discuss how I can contribute to your projects or share insights for mutual success.<br><br>
 > 🛜 Connect with me at - <br>
