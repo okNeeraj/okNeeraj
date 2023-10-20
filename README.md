@@ -53,8 +53,8 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 ### Top Repositories
 
 
-<a href="https://github.com/okneeraj/nodexp-skeleton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=nodexp-skeleton&theme=buefy" />
+<a href="https://github.com/okneeraj/netflix-gpt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=netflix-gpt&theme=buefy" />
 </a>
 <a href="https://github.com/okneeraj/namaste-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=namaste-react&theme=buefy" />
