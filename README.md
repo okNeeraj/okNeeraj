@@ -15,9 +15,22 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 ✅ `HTML`, `CSS/SASS`, `Bootstrap`, `TailwindCSS`,  <br>
 ✅ `Web Optimization`, `Performance Auditing`, and `SEO Optimization`.  <br>
 
+#### Currently Working on FrameWeave
+> A no-code website builder for the future.
+```typescript
+const workingOn = (project: { name: string; status: string }): string => {
+  return project.status === "Done"
+    ? launch(project)
+    : "Shaping The World of Tomorrow's...";
+};
+```
+
+
 #### My expertise extends to:
 
-👨‍💻 JavaScript Is Love: Profound understanding of JavaScript and DOM manipulation, ensuring seamless user experiences, high scalability, maintainability, and reusability.
+❤️ JavaScript Is Love: Profound understanding of JavaScript and DOM manipulation, ensuring seamless user experiences, high scalability, maintainability, and reusability.
+
+👨‍💻 Passionate about React and Redux, leveraging their power to craft interactive, feature-rich web applications. It's the perfect synergy of JavaScript, React, and Redux, allowing for exceptional user experiences and robust, well-structured applications.
 
 🎯 SaaS Product Architect: Highly skilled in Frontend Architecture, with a vision for creating robust and user-centric solutions.
 
