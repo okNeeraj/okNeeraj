@@ -67,8 +67,8 @@ const workingOn = (project: { name: string; status: string }): string => {
 
 
 <a href="https://github.com/okneeraj/netflix-gpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=netflix-gpt&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=netflix-gpt&theme=radical" />
 </a>
 <a href="https://github.com/okneeraj/namaste-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=namaste-react&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=namaste-react&theme=radical" />
 </a>
