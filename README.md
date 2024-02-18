@@ -56,10 +56,10 @@ const workingOn = (project: { name: string; status: string }): string => {
 
 
 
-| <a href="https://github.com/okNeeraj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=okNeeraj&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Neeraj's github stats" /></a> | <a href="https://github.com/okneeraj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okneeraj&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/okNeeraj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=okNeeraj&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Neeraj's github stats" /></a> | <a href="https://github.com/okneeraj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okneeraj&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=okneeraj&theme=radical&border_radius=0&ring=1632EB&fire=1632EB&currStreakLabel=1632EB&hide_current_streak=true" width="824">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=okneeraj&theme=transparent&border_radius=0&ring=1632EB&fire=1632EB&currStreakLabel=1632EB&hide_current_streak=true" width="824">
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=okneeraj&border_radius=0&ring=1632EB&fire=1632EB&currStreakLabel=1632EB)](https://git.io/streak-stats) -->
 
@@ -67,8 +67,8 @@ const workingOn = (project: { name: string; status: string }): string => {
 
 
 <a href="https://github.com/okneeraj/netflix-gpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=netflix-gpt&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=netflix-gpt&theme=transparent" />
 </a>
 <a href="https://github.com/okneeraj/namaste-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=namaste-react&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okneeraj&repo=namaste-react&theme=transparent" />
 </a>
