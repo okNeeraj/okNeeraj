@@ -15,8 +15,8 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 ✅ `HTML`, `CSS/SASS`, `Bootstrap`, `TailwindCSS`,  <br>
 ✅ `Web Optimization`, `Performance Auditing`, and `SEO Optimization`.  <br>
 
-#### Currently Working on FrameWeave
-> A no-code website builder for the future.
+#### Currently Learning Namaste DSA
+> From Akshay Saini (NamasteDev)
 ```typescript
 const workingOn = (project: { name: string; status: string }): string => {
   return project.status === "Done"
