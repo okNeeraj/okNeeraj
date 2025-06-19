@@ -9,7 +9,7 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 ✅ `JavaScript`, <br>
 ✅ `ReactJS`, `Redux`,  <br>
 ✅ `TypeScript`,  <br>
-✅ `NodeJS`, `Express.js`, <br>
+✅ `NodeJS`, `Express.js`, `Laravel`, `PHP` <br>
 ✅ `MongoDB`, `MySQL`, `APIs`,  <br>
 ✅ `WebPack`, `Parcel`, `Vite`,  <br>
 ✅ `HTML`, `CSS/SASS`, `Bootstrap`, `TailwindCSS`,  <br>
