@@ -20,8 +20,8 @@ Passionate and Experienced JavaScript Developer with a proven track record of 6+
 ```typescript
 const workingOn = (project: { name: string; status: string }): string => {
   return project.status === "Done"
-    ? launch(project)
-    : "Shaping The World of Tomorrow's...";
+    ? exploreNew(project)
+    : "Keep learning...";
 };
 ```
 
